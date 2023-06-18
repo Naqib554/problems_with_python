@@ -1,0 +1,12 @@
+when you have multiple python environment and  all environment is activated before the package installation.
+so now you install a package in a specifi environment so follow the bellow instructions.
+
+1)inside the project directory 
+press shipt+right click and open the window powershell
+
+2)now activate the virtual environment 
+
+3)then install the required package 
+
+4)by this way you install the specific pakage in the spcifi virtual envirnment.
+

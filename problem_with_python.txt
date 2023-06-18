@@ -1,19 +1,27 @@
-pip cache purge
+1)pip cache purge
 After clearing the cache, attempt to install the package again.
 
 
-how to activate virtual environment:
+2)how to activate virtual environment:
 .\environment_name\script\activate
 
 
-how to remove all python package at onece.
+3)how to remove all python package at onece.
 first create a file of packages.
 pip freeze > packages.txt
 second delete all install package in your code with the bellow command.
 pip uninstall -r packages.txt -y
 
 
-this command read all package from the file and install all the pacakge.
+4)this command read all package from the file and install all the pacakge.
 pip install -r packages.txt
 
 
+5)how to install pip:
+
+
+
+6)uninstall the pip:
+Open a command prompt or terminal window.
+Copy the command you want to run:
+AppData\Local\Programs\Python\Python311\python.exe -m pip uninstall -y pip setuptools
