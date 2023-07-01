@@ -1,0 +1,4 @@
+how to move multiple lines forward and backward:
+1) select multiple lines in both cases.
+2)backward short_cut_key: shift+tab
+3)forward short_cut_key: tab

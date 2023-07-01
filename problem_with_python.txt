@@ -21,6 +21,7 @@ pip install -r packages.txt
 
 
 
+
 6)uninstall the pip:
 Open a command prompt or terminal window.
 Copy the command you want to run:
